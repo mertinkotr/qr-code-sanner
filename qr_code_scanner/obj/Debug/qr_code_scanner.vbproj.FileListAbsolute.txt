@@ -1,0 +1,12 @@
+c:\users\cspr\documents\visual studio 2015\Projects\qr_code_scanner\qr_code_scanner\bin\Debug\qr_code_scanner.exe.config
+c:\users\cspr\documents\visual studio 2015\Projects\qr_code_scanner\qr_code_scanner\bin\Debug\qr_code_scanner.exe
+c:\users\cspr\documents\visual studio 2015\Projects\qr_code_scanner\qr_code_scanner\bin\Debug\qr_code_scanner.pdb
+c:\users\cspr\documents\visual studio 2015\Projects\qr_code_scanner\qr_code_scanner\bin\Debug\qr_code_scanner.xml
+c:\users\cspr\documents\visual studio 2015\Projects\qr_code_scanner\qr_code_scanner\obj\Debug\qr_code_scanner.vbprojResolveAssemblyReference.cache
+c:\users\cspr\documents\visual studio 2015\Projects\qr_code_scanner\qr_code_scanner\obj\Debug\qr_code_scanner.Form1.resources
+c:\users\cspr\documents\visual studio 2015\Projects\qr_code_scanner\qr_code_scanner\obj\Debug\qr_code_scanner.Resources.resources
+c:\users\cspr\documents\visual studio 2015\Projects\qr_code_scanner\qr_code_scanner\obj\Debug\qr_code_scanner.vbproj.GenerateResource.Cache
+c:\users\cspr\documents\visual studio 2015\Projects\qr_code_scanner\qr_code_scanner\obj\Debug\qr_code_scanner.exe
+c:\users\cspr\documents\visual studio 2015\Projects\qr_code_scanner\qr_code_scanner\obj\Debug\qr_code_scanner.xml
+c:\users\cspr\documents\visual studio 2015\Projects\qr_code_scanner\qr_code_scanner\obj\Debug\qr_code_scanner.pdb
+c:\users\cspr\documents\visual studio 2015\Projects\qr_code_scanner\qr_code_scanner\bin\Debug\zxing.dll
